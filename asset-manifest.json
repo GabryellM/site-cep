@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/site-cep/static/css/main.6ebb1272.css",
+    "main.js": "/site-cep/static/js/main.42245912.js",
+    "index.html": "/site-cep/index.html",
+    "main.6ebb1272.css.map": "/site-cep/static/css/main.6ebb1272.css.map",
+    "main.42245912.js.map": "/site-cep/static/js/main.42245912.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ebb1272.css",
+    "static/js/main.42245912.js"
+  ]
+}
